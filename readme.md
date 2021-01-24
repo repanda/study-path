@@ -183,6 +183,7 @@ If you are looking for more Code Katas to learn and practice with your new progr
 - Read [DDD: Putting the Model to Work](https://www.infoq.com/presentations/model-to-work-evans)
 - Read [How to write a Repository](http://philcalcado.com/2010/12/23/how_to_write_a_repository.html)
 - Watch [DDD and Microservices: At last, some boundaries!](https://vimeo.com/125769142)
+- Read and watch [Effective Aggregate Design by Vaughn Vernon!](https://www.dddcommunity.org/library/vernon_2011/) 
 - Recommended readings:
   - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
   - [Implementing Domain-Driven Design](https://www.amazon.it/dp/0321834577)
