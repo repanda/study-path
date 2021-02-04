@@ -240,7 +240,7 @@ If you are looking for more Code Katas to learn and practice with your new progr
   - Try the [Salary Slip Kata](https://github.com/sandromancuso/salaryslipkata)
   - Try the [Bank Account Kata](https://github.com/sandromancuso/Bank-kata)
     - Try to implement a variant using a CQRS/ES approach
-- Check [Vladik Khononov Awesome DDD gist] (https://github.com/vladikk/awesome-ddd)
+- Check [Vladik Khononov Awesome DDD gist](https://github.com/vladikk/awesome-ddd)
 
 ## Recommended Readings
 
