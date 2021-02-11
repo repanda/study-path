@@ -245,7 +245,7 @@ If you are looking for more Code Katas to learn and practice with your new progr
 ## Recommended Readings
 
 This section provides a list of recommended books readings that have not been mentioned directly in this study path, but of significant importance.
-
+- [Event storming cheatsheet](https://github.com/wwerner/event-storming-cheatsheet)
 - [The Nature of Software Development](https://www.amazon.com/Nature-Software-Development-Simple-Valuable/dp/1941222374)
 - [Extreme Programming Explained: Embrace Change (2nd Edition)](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B000OZ0N5S)
 - [The Agile Samurai: How Agile Masters Deliver Great Software](https://www.amazon.com/Agile-Samurai-Software-Pragmatic-Programmers/dp/1934356581)
